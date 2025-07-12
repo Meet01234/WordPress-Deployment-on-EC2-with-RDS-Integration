@@ -1,6 +1,6 @@
 # 📦 Title: Connecting AWS RDS with an EC2 instance
 
-![Screenshot](EC2.png)
+![Screenshot](RDS.png)
 
 ## 🌐 WordPress on EC2 with RDS (MySQL) – DevOps Setup
 
